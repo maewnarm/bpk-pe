@@ -1,0 +1,4 @@
+[submodule "bpk-pe-apps"]
+	path = bpk-pe-apps
+	url = https://github.com/maewnarm/bpk-pe-apps.git
+	branch = main
