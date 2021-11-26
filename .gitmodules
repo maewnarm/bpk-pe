@@ -2,3 +2,6 @@
 	path = bpk-pe-apps
 	url = https://github.com/maewnarm/bpk-pe-apps.git
 	branch = main
+[submodule "strapi-api"]
+	path = strapi-api
+	url = https://github.com/maewnarm/bpk-pe-strapi-api.git
